@@ -1,0 +1,3 @@
+/home/noa/Desktop/C++/projectNum1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/noa/Desktop/C++/projectNum1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noa/Desktop/C++/projectNum1/cmake-build-debug/CMakeFiles/projectNum1.dir
