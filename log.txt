@@ -1,0 +1,11 @@
+commit 6eb2e38ca759089507ed6370119987879b5f95d6
+Author: noaDagan <ndagan14@gmail.com>
+Date:   Thu Dec 27 18:59:23 2018 +0200
+
+    project1
+
+commit 6a23a87a3a4eebaa7435dac5128dd031125e97cb
+Author: noaDagan <ndagan14@gmail.com>
+Date:   Thu Dec 27 18:48:49 2018 +0200
+
+    Initial commit
